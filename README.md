@@ -1,6 +1,6 @@
 # Stock Market Simulator
 
-This project is a simple stock market simulator that allows users to buy and sell stocks from European and American markets.
+This project is a simple stock market simulator that allows users to buy and sell stocks from European and American markets. Developed as part of the Programming Fundamentals course on the Computer Engeneering Degree.
 
 ## Features
 
