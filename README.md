@@ -41,7 +41,7 @@ You can modify the `config.py` file to change various parameters of the simulati
 
 ## Testing
 
-To run the tests. python -m unittest discover tests
+To run the tests: python -m unittest discover tests
 
 ## Contributing
 
